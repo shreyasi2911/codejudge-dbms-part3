@@ -1,4 +1,3 @@
-# codejudge-dbms-part3
 # Data Integrity Audit, Debugging & Repair Plan — Part 3
 
 ## Overview
