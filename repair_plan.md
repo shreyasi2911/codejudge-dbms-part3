@@ -37,7 +37,7 @@ Student ID: S0018
 Issue: ravi.no-at-symbol.codejudge.edu
 
 Repair:
-Update to `rahul@code.judge.edu`
+Update to `ravi@code.judge.edu`
 
 Reason:
 Clearly missing '@' symbol.
