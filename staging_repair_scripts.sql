@@ -30,7 +30,7 @@ WHERE student_id = "S0018";
 -- REPAIR
 
 UPDATE students_staging
-SET email = 'rahul@code.judge.edu'
+SET email = 'ravi@code.judge.edu'
 WHERE student_id = "S0018";
 
 -- AFTER
